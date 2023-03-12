@@ -1,4 +1,4 @@
-My codecademy exercise ([https://vicky-wyq.github.io/]).
+My codecademy exercise [https://vicky-wyq.github.io/].
 
 #### codecademy exercise
 
