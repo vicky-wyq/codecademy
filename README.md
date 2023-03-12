@@ -1,2 +1,2 @@
 # codecademy exercise
-# vicky-wyq/codecademy
+# https://vicky-wyq.github.io/
