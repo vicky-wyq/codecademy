@@ -1,5 +1,5 @@
 ## code exercise
 
 
-My codecademy **[exercise](https://vicky-wyq.github.io/)**.
+My code **[exercise](https://vicky-wyq.github.io/)**.
 
